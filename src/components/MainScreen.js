@@ -72,7 +72,8 @@ const styles = StyleSheet.create({
     catTextStyle: {
         fontWeight: 'bold',
         fontSize: 20,
-        padding: 10,
+        paddingHorizontal: 60,
+        paddingVertical: 8,
         color: '#fff',
         backgroundColor: '#f24f09',
         borderRadius: 5
